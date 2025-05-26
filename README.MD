@@ -13,7 +13,8 @@ Instead of watching hours of lectures again, you can get everything transcribed 
 
 * `tiny` or `base` if you have a lower-end laptop
 * `medium` or `large` for better accuracy (but needs more RAM and CPU power)
-**Also be sure to copy the content of this repository in the whisper.cpp folder (If you have problem installing whisper.cpp then Follow the installation tutorial on the whisper.cpp repository at the top of this readme), in case the path of the whisper-cli.exe is different change it with your own path in the transcriptor.py file**
+
+\n**Also be sure to copy the content of this repository in the whisper.cpp folder (If you have problem installing whisper.cpp then Follow the installation tutorial on the whisper.cpp repository at the top of this readme), in case the path of the whisper-cli.exe is different change it with your own path in the transcriptor.py file**
 ---
 
 ## 📦 Requirements
