@@ -127,14 +127,6 @@ The GUI will:
 
 ---
 
-## 💡 Future Improvements
-
-* Language auto-detection (`--detect-language`)
-* Adding a NLP model to handle repetetive and out of context words
-* Batch processing of videos
-
----
-
 ## 📄 License
 
 MIT License. Free to use and modify.
