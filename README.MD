@@ -127,6 +127,3 @@ The GUI will:
 
 ---
 
-## 📄 License
-
-MIT License. Free to use and modify.
